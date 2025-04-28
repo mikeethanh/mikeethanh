@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mai Thanh</h1>
-<h3 align="center">Exploring Deep Learning | Interested in NLP, LLMs, and sequence modeling with RNNs, LSTMs, and Transformers</h3>
+<h3 align="center">Exploring Deep Learning | Interested in NLP ,LLMs, GenAI and sequence modeling with RNNs, LSTMs, and Transformers</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mikeethanh&label=Profile%20views&color=0e75b6&style=flat" alt="mikeethanh" /> </p>
 
